@@ -10,7 +10,7 @@ cav=pygame.display.set_mode((500,500),pygame.RESIZABLE)
 pygame.display.set_caption("My pygame")
 
 
-img=pygame.image.load(r'C:\Users\karti\OneDrive\Pictures\profile.png')
+img=pygame.image.load(r'profile.png')
 pygame.display.set_icon(img)
 exit=False
 
