@@ -9,7 +9,7 @@ position=(0,0)
 cav=pygame.display.set_mode((500,500),pygame.RESIZABLE)
 pygame.display.set_caption("My pygame")
 
-
+#add your photo for window logo
 img=pygame.image.load(r'profile.png')
 pygame.display.set_icon(img)
 exit=False
